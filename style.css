@@ -59,7 +59,7 @@ ul {
 
 .options {
   display: grid;
-  grid-template-columns: 20% 12% 60%;
+  grid-template-columns: 20% 13% 60%;
 }
 .options .features {
   margin-top: 15%;
@@ -81,6 +81,7 @@ ul {
 }
 .options .price-and-checkboxes > ul {
   margin-top: 10px;
+  padding-left: 12px;
 }
 .options .price-and-checkboxes > ul > li {
   padding: 10px;
